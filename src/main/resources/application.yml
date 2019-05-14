@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+socrata:
+  cityofnewyork:
+    uri: https://data.cityofnewyork.us/resource/uvpi-gqnh.json
